@@ -78,3 +78,36 @@ body{
         margin-right:100%;
     }
 }
+
+
+/* changes */
+@media (max-width:660px){
+    
+    .my-container{
+        margin-top: 10em;
+        margin-left:50px;
+        margin-right:50px;
+    }
+}
+
+
+
+@media (max-width:670px){
+    
+    .my-container{
+        margin-top: 10em;
+        margin-left:50px;
+        margin-right:50px;
+    }
+}
+
+
+
+@media (max-width:684px){
+    
+    .my-container{
+        margin-top: 10em;
+        margin-left:50px;
+        margin-right:50px;
+    }
+}
